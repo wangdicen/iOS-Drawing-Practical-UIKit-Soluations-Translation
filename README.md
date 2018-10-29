@@ -10,3 +10,6 @@
 * [2-几何语言](https://github.com/wangdicen/iOS-Drawing-Practical-UIKit-Soluations-Translation/blob/master/2-几何语言/2-几何语言.md)
 
 * [3-绘制图像](https://github.com/wangdicen/iOS-Drawing-Practical-UIKit-Soluations-Translation/blob/master/3-绘制图像/3-绘制图像.md)
+
+* [4-路径基础](https://github.com/wangdicen/iOS-Drawing-Practical-UIKit-Soluations-Translation/blob/master/4-路径基础/4-路径基础.md)
+
