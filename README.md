@@ -14,3 +14,5 @@
 * [4-路径基础](https://github.com/wangdicen/iOS-Drawing-Practical-UIKit-Soluations-Translation/blob/master/4-路径基础/4-路径基础.md)
 
 * [5-路径深入](https://github.com/wangdicen/iOS-Drawing-Practical-UIKit-Soluations-Translation/blob/master/5-路径深入/5-路径深入.md)
+
+* [6-绘制梯度](https://github.com/wangdicen/iOS-Drawing-Practical-UIKit-Soluations-Translation/blob/master/6-绘制梯度/6-绘制梯度.md)
