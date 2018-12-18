@@ -16,3 +16,6 @@
 * [5-路径深入](https://github.com/wangdicen/iOS-Drawing-Practical-UIKit-Soluations-Translation/blob/master/5-路径深入/5-路径深入.md)
 
 * [6-绘制渐变](https://github.com/wangdicen/iOS-Drawing-Practical-UIKit-Soluations-Translation/blob/master/6-绘制渐变/6-绘制渐变.md)
+
+* [7-遮罩，模糊和动画](https://github.com/wangdicen/iOS-Drawing-Practical-UIKit-Soluations-Translation/blob/master/7-遮罩，模糊和动画/7-遮罩，模糊和动画.md)
+
