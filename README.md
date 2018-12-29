@@ -19,3 +19,4 @@
 
 * [7-遮罩，模糊和动画](https://github.com/wangdicen/iOS-Drawing-Practical-UIKit-Soluations-Translation/blob/master/7-遮罩，模糊和动画/7-遮罩，模糊和动画.md)
 
+* [8-绘制文本](https://github.com/wangdicen/iOS-Drawing-Practical-UIKit-Soluations-Translation/blob/master/8-绘制文本/8-绘制文本.md)
